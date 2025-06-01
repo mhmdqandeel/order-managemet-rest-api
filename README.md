@@ -33,20 +33,21 @@ A secure and scalable RESTful API built with **Java Spring Boot** for managing p
 
 order-managemet-rest-api/
 ├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ └── com/
-│ │ │ └── yourpackage/
-│ │ │ ├── controller/
-│ │ │ ├── entity/
-│ │ │ ├── repository/
-│ │ │ ├── service/
-│ │ │ └── security/
-│ │ └── resources/
-│ │ ├── application.properties
-│ │ └── ...
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── yourpackage/
+│       │           ├── controller/
+│       │           ├── entity/
+│       │           ├── repository/
+│       │           ├── service/
+│       │           └── security/
+│       └── resources/
+│           ├── application.properties
+│           └── ...
 ├── pom.xml
 └── README.md
+
 
 yaml
 Copy
