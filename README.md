@@ -27,7 +27,7 @@ A secure and scalable RESTful API built with **Java Spring Boot** for managing p
 - **Build Tool**: Maven
 - **Version Control**: Git
 
----plaintext
+---
 
 ## 📁 Project Structure
 
